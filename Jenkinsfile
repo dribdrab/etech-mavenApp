@@ -30,7 +30,7 @@ pipeline {
   -Dsonar.projectKey=edsproject \
   -Dsonar.projectName='edsproject' \
   -Dsonar.host.url=http://63.35.176.42:9000 \
-  -Dsonar.token=sqp_e9646f5b2aff8dd002f829314ecea43a05c0bbfe"
+  -Dsonar.token=sqp_f9290121d66ab39e75cfa2639da15feecd75d6db"
       }
     }
   }
